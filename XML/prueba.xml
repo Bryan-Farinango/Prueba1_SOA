@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartelera>
+    <pelicula>
+        <codigo>001</codigo>
+        <titulo>Jig Saw</titulo>
+        <anio>2004</anio>
+        <duracion>
+            <horas>1</horas>
+            <minutos>51</minutos>
+            <segundos>0</segundos>
+        </duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <genero>suspenso psicologico</genero>
+        <clasificacion>R</clasificacion>
+        <director>
+            <nombre>James</nombre>
+            <apellido>Wan</apellido>
+            <nacimiento>
+                <anio>1977</anio>
+                <mes>febrero</mes>
+                <dia>26</dia>
+            </nacimiento>
+        </director>
+        <reparto>
+            <actoresPrincipales>
+                <nombre>Tobin Bell</nombre>
+                <nombrePelicula>Jig Saw</nombrePelicula>
+            </actoresPrincipales>
+            
+            <actoresSecundarios>
+                <nombre>Leigh Whannell</nombre>
+                <nombrePelicula>Adam Stanheight</nombrePelicula>
+                
+                <nombre>Cary Elwes</nombre>
+                <nombrePelicula>Lawrence Gordon</nombrePelicula>
+            </actoresSecundarios>
+            
+            <dobles>
+                <nombre>Paul Braunstein</nombre>
+                <sustituye>Ryan Craythorne</sustituye>
+                
+                <nombre>Josiah Black</nombre>
+                <sustituye>Edgar Munsen</sustituye>
+                
+            </dobles>
+        </reparto>
+        
+        <sinopsis>
+            Jigsaw es una película de terror estadounidense dirigida por Michael y Peter Spierig, escrita por Josh Stolberg y Pete Goldfinger y protagonizada por Tobin Bell, Mandela Van Peebles, Laura Vandervoort, Brittany Allen, Callum Keith Rennie, Mate Passmore, Hannah Emily Anderson, Josiah Black, Shaquan Lewis, Michael Boisvert, Paul Braunstein y Clé Bennett. Es la octava película de la franquicia, tomando lugar una década después de la muerte del asesino Jigsaw, durante la investigación de una sucesión nueva de asesinatos que corresponde a su modus operandi.
+        </sinopsis>
+    </pelicula>
+</cartelera>
